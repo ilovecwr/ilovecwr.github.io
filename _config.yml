@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:title/
+
+# Setup
+title:               ‘个人博物馆’
+tagline:             ‘万如’
+description:         ‘留下存在的痕迹’
+url:                 http://manyu.ch
+baseurl:             'http://manyu.ch'
+paginate:            5
+
+# About/contact
+author:
+  name:              万如
+  url:               http://manyu.ch
+  email:             ilovecwr@gmail.com
+
+# Custom vars
+version:             1.0.0
